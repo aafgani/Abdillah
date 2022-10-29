@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <cstdlib>
 
-void Latihan5()
+void Run5()
 {
     int k, m, n;
     printf("Masukkan k m n : ");

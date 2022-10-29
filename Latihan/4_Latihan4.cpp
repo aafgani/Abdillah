@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <cstdlib>
 
-void Latihan4()
+void Run4()
 {
     int t;
     printf("Masukkan T kasus : ");

@@ -1,6 +1,6 @@
 #include <stdio.h>
 
-void run()
+void Run2()
 {
     int m, n;
     printf("Masukkan m : ");

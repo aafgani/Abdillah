@@ -2,7 +2,7 @@
 #include <cstdlib>
 #include <string>
 
-void matrik_spiral()
+void Run1()
 {
     int m, n;
     printf("Masukkan m n : ");
